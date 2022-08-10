@@ -15,6 +15,7 @@ some of the columns include:
 - appointment day
 - neighbourhood
 - scholarship (the meaning of this column can be found [here](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia))
+Download data [here](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
 ## Question for analysis
 
 - Does gender affect the level of show-ups across the days
